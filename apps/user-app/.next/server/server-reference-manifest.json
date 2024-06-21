@@ -1,0 +1,14 @@
+{
+  "node": {
+    "3a458412df74849cc0c0927d2ad8b6e7d53d6430": {
+      "workers": {
+        "app/(dashboard)/transfer/page": "(action-browser)/../../node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fak07%2FDevelopment%2Fcohort%2Fpaytm-project-starter-monorepo%2Fapps%2Fuser-app%2Fapp%2Flib%2Factions%2FcreateOnrampTransaction.ts%22%2C%5B%22createOnRampTransaction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/transfer/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XJ6Lu7AKk4NCFueE6PfSnQUlIn+e01k3SX/EbXsRJSg="
+}
